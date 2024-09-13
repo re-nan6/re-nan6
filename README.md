@@ -5,9 +5,9 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-nan6&layout=compact&langs_count=6&theme=transparent)
 ![re-nan6's GitHub stats](https://github-readme-stats.vercel.app/api?username=re-nan6&theme=transparent)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=re-nan6&theme=transparent&card_width=750)](https://git.io/streak-stats)
 
-
-<div align="center">
+<div align="left">
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
         <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
