@@ -1,4 +1,4 @@
-<h2 align="left">About me💠</h2>
+<h2 align="left">About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /></h2>
 
 ![summary-card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=re-nan6&theme=transparent)
 
@@ -16,7 +16,7 @@
 </div>
 
 
-<h2 align="left">Tech Stack🔧</h2>
+<h2 align="left">Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /></h2>
 
 ###
 
@@ -46,6 +46,6 @@
 </div>
 
 
-<h2 align="left">Music🎵</h2>
+<h2 align="left">Music <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25" /></h2>
 
 ![spotyfiy](https://spotify-recently-played-readme.vercel.app/api?user=uvppjjum2ml02o7tdqkb46tvi)
